@@ -10,8 +10,9 @@
 ### 📫 Как со мной связаться:
 *   **Telegram:** [@lev0on](https://t.me/lev0on)
 
-И котика, чтобы день был лучше
+
 <p align="center">
+  И котика, чтобы день был лучше
   <img width="400" height="250" src="https://github.com/Lev0on/Delete-this/blob/newBranchNewPractice/9b56c003d032ee25521915f222270108_cropped_510x510.webp">
 </p>
 
